@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div class="App">
+    <div className="App">
       <h1>Box Maker</h1>
       <BoxList />
     </div>
